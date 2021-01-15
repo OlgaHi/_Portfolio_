@@ -1,0 +1,47 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url('../images/background_image.jpg');
+  padding: 5%;
+  border: solid gray
+}
+
+img {
+  float: right;
+  width: 250px;
+  height: auto;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-size: x-large;
+  color:darkred;
+}
+
+div.project_descrip {
+  text-align: left;
+  font-size:70%;
+}
+
+.project .project_image {
+  float: right;
+  width: 250px;
+  height: auto;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+#experience {
+  font-weight: bold;
+}
+
+.contacts {
+  text-align: center;
+}
+
+
